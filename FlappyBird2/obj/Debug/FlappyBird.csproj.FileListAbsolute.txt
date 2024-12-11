@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\FlappyBird\FlappyBird2\bin\Debug\FlappyBird2.exe.config
+C:\Users\ASUS\source\repos\FlappyBird\FlappyBird2\bin\Debug\FlappyBird2.exe
+C:\Users\ASUS\source\repos\FlappyBird\FlappyBird2\bin\Debug\FlappyBird2.pdb
+C:\Users\ASUS\source\repos\FlappyBird\FlappyBird2\obj\Debug\FlappyBird.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\FlappyBird\FlappyBird2\obj\Debug\FlappyBird2.Form1.resources
+C:\Users\ASUS\source\repos\FlappyBird\FlappyBird2\obj\Debug\FlappyBird2.Properties.Resources.resources
+C:\Users\ASUS\source\repos\FlappyBird\FlappyBird2\obj\Debug\FlappyBird.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\FlappyBird\FlappyBird2\obj\Debug\FlappyBird.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\FlappyBird\FlappyBird2\obj\Debug\FlappyBird2.exe
+C:\Users\ASUS\source\repos\FlappyBird\FlappyBird2\obj\Debug\FlappyBird2.pdb
